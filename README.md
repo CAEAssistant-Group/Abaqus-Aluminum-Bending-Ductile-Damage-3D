@@ -1,4 +1,7 @@
 # Abaqus-Aluminum-Bending-Ductile-Damage-3D
+
+✅ This is the complete source code for the project, ready to use.✨
+
 In this project, the three-dimensional bending of a sample made from extruded aluminum alloy EN AW-7108 T6 is analyzed in a 3D space. Note that this is a simple example. However, if you need more information about ductile damage in Abaqus and its modeling using the VUMAT subroutine, you can visit the CAE Assistant website.
 The material behavior is considered elasto-plastic, and the ductile damage criterion is also taken into account. The material properties are shown in the next figure.
 
